@@ -49,7 +49,7 @@ public class UserTests {
 		
 		Assert.assertEquals(response.getStatusCode(),200);
 		
-		logger.info("**********User is creatged  ***************");
+		logger.info("**********User is created  ***************");
 			
 	}
 	
