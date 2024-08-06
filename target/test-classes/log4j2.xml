@@ -19,11 +19,11 @@
     
     
   </Appenders>
-  
-  <Loggers>
+    <Loggers>
     <Root level="debug"><!-- Here you can use multiple log levels All < Trace < Debug < Info < Warn < Error < Fatal < Off -->
       <AppenderRef ref="File"/>  <!-- <AppenderRef ref="Console"/> -->
     </Root>
   </Loggers>
+
   
 </Configuration>
